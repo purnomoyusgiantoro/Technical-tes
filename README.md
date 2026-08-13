@@ -4,8 +4,8 @@ Aplikasi untuk *upload* data order dari file CSV ke database menggunakan Laravel
 
 ## Hasil Tampilan
 
-- **Form Upload CSV**: ![Upload CSV](upload_csv.png)
-- **Daftar Order**: ![Daftar Order](daftar_order.png)
+- **Form Upload CSV**: ![Upload CSV](public/UploadCSV.png)
+- **Daftar Order**: ![Daftar Order](public/DaftarOrder.png)
 
 ## Format CSV
 
