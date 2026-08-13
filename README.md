@@ -33,6 +33,7 @@ Header pada baris pertama diabaikan. Format urutan kolom:
    ```env
    DB_CONNECTION=sqlite
    SESSION_DRIVER=database
+   SESSION_DRIVER=file gunakan jika session telah tersimpan di database
    ```
    *(Catatan: Karena menggunakan session database, aplikasi akan error jika Anda tidak menjalankan `migrate` di bawah gunakan SESSION_DRIVER=file).*
 
