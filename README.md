@@ -21,7 +21,7 @@ Header pada baris pertama diabaikan. Format urutan kolom:
 
 1. **Install & Setup awal**
    ```bash
-   git clone <url-repo-anda>
+   git clone https://github.com/purnomoyusgiantoro/Technical-tes.git
    cd Technical-tes
    composer install
    cp .env.example .env
